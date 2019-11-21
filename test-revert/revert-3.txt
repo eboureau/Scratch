@@ -1,2 +1,4 @@
+change from branch-b
 master 3
-line2 : change from master
+change from master
+
