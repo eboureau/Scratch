@@ -1,2 +1,2 @@
-master 1: change from branch-a
+master 1
 line2 : change from master
